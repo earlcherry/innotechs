@@ -1,0 +1,14 @@
+# windows thumbnail cache
+Thumbs.db
+
+# composer vendor dir
+/vendor
+
+# Mac DS_Store Files
+.DS_Store
+
+# phalcon cache
+/cache/*.php
+
+#nginx config
+Nginx-1.11_vhost.conf

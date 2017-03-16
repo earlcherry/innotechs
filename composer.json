@@ -1,0 +1,15 @@
+{
+    "name": "earlcherry/innotechs",
+    "description": "test project",
+    "type": "project",
+    "require": {
+        "phalcon/incubator": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Max Crow",
+            "email": "raeven@yandex.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
